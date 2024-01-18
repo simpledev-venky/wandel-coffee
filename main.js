@@ -1,17 +1,17 @@
 // Dummy data
 const coffeeData = [
-    { name: 'Espresso', price: '$2.50', rating: '⭐⭐⭐', location: 'Café A', image: '/images/1.jpeg' },
-    { name: 'Latte', price: '$4.00', rating: '⭐⭐⭐⭐', location: 'Café B', image: '/images/2.jpeg' },
-    { name: 'Cappuccino', price: '$3.75', rating: '⭐⭐⭐', location: 'Café C', image: '/images/3.jpeg' },
-    { name: 'Americano', price: '$3.00', rating: '⭐⭐⭐⭐', location: 'Café D', image: '/images/4.jpg' },
-    { name: 'Mocha', price: '$4.50', rating: '⭐⭐⭐⭐', location: 'Café E', image: '/images/5.jpg' },
-    { name: 'Flat White', price: '$4.25', rating: '⭐⭐⭐⭐⭐', location: 'Café F', image: '/images/6.jpg' },
-    { name: 'Macchiato', price: '$3.25', rating: '⭐⭐', location: 'Café G', image: '/images/7.jpeg' },
-    { name: 'Affogato', price: '$5.00', rating: '⭐⭐⭐⭐⭐', location: 'Café H', image: '/images/8.jpeg' },
-    { name: 'Irish Coffee', price: '$6.50', rating: '⭐⭐⭐⭐', location: 'Café I', image: '/images/9.jpg' },
-    { name: 'Turkish Coffee', price: '$14.75', rating: '⭐⭐⭐⭐⭐', location: 'Café J', image: '/images/10.jpeg' },
-    { name: 'U.K Coffee', price: '$9.50', rating: '⭐⭐⭐⭐', location: 'lotus city', image: '/images/11.jpeg' },
-    { name: 'Black Coffee', price: '$10.75', rating: '⭐⭐⭐⭐', location: 'los vegas', image: '/images/12.jpeg' },
+    { name: 'Espresso', price: '$2.50', rating: '⭐⭐⭐', location: 'Café A', image: 'images/1.jpeg' },
+    { name: 'Latte', price: '$4.00', rating: '⭐⭐⭐⭐', location: 'Café B', image: 'images/2.jpeg' },
+    { name: 'Cappuccino', price: '$3.75', rating: '⭐⭐⭐', location: 'Café C', image: 'images/3.jpeg' },
+    { name: 'Americano', price: '$3.00', rating: '⭐⭐⭐⭐', location: 'Café D', image: 'images/4.jpg' },
+    { name: 'Mocha', price: '$4.50', rating: '⭐⭐⭐⭐', location: 'Café E', image: 'images/5.jpg' },
+    { name: 'Flat White', price: '$4.25', rating: '⭐⭐⭐⭐⭐', location: 'Café F', image: 'images/6.jpg' },
+    { name: 'Macchiato', price: '$3.25', rating: '⭐⭐', location: 'Café G', image: 'images/7.jpeg' },
+    { name: 'Affogato', price: '$5.00', rating: '⭐⭐⭐⭐⭐', location: 'Café H', image: 'images/8.jpeg' },
+    { name: 'Irish Coffee', price: '$6.50', rating: '⭐⭐⭐⭐', location: 'Café I', image: 'images/9.jpg' },
+    { name: 'Turkish Coffee', price: '$14.75', rating: '⭐⭐⭐⭐⭐', location: 'Café J', image: 'images/10.jpeg' },
+    { name: 'U.K Coffee', price: '$9.50', rating: '⭐⭐⭐⭐', location: 'lotus city', image: 'images/11.jpeg' },
+    { name: 'Black Coffee', price: '$10.75', rating: '⭐⭐⭐⭐', location: 'los vegas', image: 'images/12.jpeg' },
   ]
   
 
